@@ -9,6 +9,7 @@ public class Main {
         int y= 10;
         int z = x* y;
         //my first commit to GIt hub
+        //my second commit
         System.out.println("z::"+z);
     }
 }
